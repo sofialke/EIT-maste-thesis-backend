@@ -1,1 +1,1 @@
-# EIT-maste-thesis-backend
+# EIT-master-thesis-backend
