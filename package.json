@@ -1,6 +1,11 @@
 {
   "dependencies": {
+    "@aws-sdk/client-textract": "^3.341.0",
+    "amazon-textract-response-parser": "^0.2.1",
     "aws-cdk-lib": "^2.80.0",
     "constructs": "^10.2.32"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.1"
   }
 }
